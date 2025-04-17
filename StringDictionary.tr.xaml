@@ -48,7 +48,7 @@
 	<system:String x:Key="Messages.Error.Unauthorized">Kimlik doğrulaması başarısız oldu. Lütfen bilgilerinizi kontrol ediniz.(Şifre).</system:String>
 	<system:String x:Key="Messages.ExistVolume">Girdiğiniz isim kullanımda.</system:String>
 	<system:String x:Key="Messages.ExitConfirm">Çıkmadan önce tüm bağlantıları sondırmak istediğinize emin misiniz?</system:String>
-	<system:String x:Key="Messages.ExportByEmail">İhracat dosyası e-posta ile gönderilecektir.</system:String>
+	<system:String x:Key="Messages.ExportByEmail">Dışa aktarma dosyası e-posta ile gönderilecektir.</system:String>
 	<system:String x:Key="Messages.FileLock.DependsWebDAV">WebDAV sunusuna göre değişebilir.</system:String>
 	<system:String x:Key="Messages.FileLock.NotSupport">Sunucunuz desteklemiyor olabilir.</system:String>
 	<system:String x:Key="Messages.FolderExist">Bu dosya zaten kullanılmakta.</system:String>
@@ -75,7 +75,7 @@
 	<system:String x:Key="Messages.RetryAfter">{0} saniye sonra tekrar dene.</system:String>
 	<system:String x:Key="Messages.SelectLetter">Lütfen kullanılmayan bir sürücü harfi seçiniz</system:String>
 	<system:String x:Key="Messages.SelectLocalDrive">Lütfen bilgisayarınızdaki bir dosyayı seçiniz.</system:String>
-	<system:String x:Key="Messages.SelectPrivateKeyPath">Private key ekleyebilirsiniz.</system:String>
+	<system:String x:Key="Messages.SelectPrivateKeyPath">Özel anahtar ekleyebilirsiniz.</system:String>
 	<system:String x:Key="Messages.SelectedPath">Seçilen dosya yolu</system:String>
 	<system:String x:Key="Messages.SelectTargetFolder">Dosyaların yükleneceği klasörü seçiniz.</system:String>
 	<system:String x:Key="Messages.Service.GetStarted">RaiDrive'a başlayalım mı?</system:String>
@@ -139,7 +139,7 @@
 	<system:String x:Key="Phrases.RunAtConnect">Dosya bağlantısı sağlandığında dosya yöneticisini aç.</system:String>
 	<system:String x:Key="Phrases.SelectFolder">Dosya seç</system:String>
 	<system:String x:Key="Phrases.Service.ReviveRaiDrive">RaiDrive'ı onar.</system:String>
-	<system:String x:Key="Phrases.SimultaneousTransfer">Eş zamanlı transfer</system:String>
+	<system:String x:Key="Phrases.SimultaneousTransfer">Eşzamanlı aktarım</system:String>
 	<system:String x:Key="Phrases.StartRaiDrive">RaiDrive'ı başlatın</system:String>
 	<system:String x:Key="Phrases.State.Space.Format">{1} {2} alanınızın {0} {2}'ı boş</system:String>
 	<system:String x:Key="Phrases.Subscription.Switch">{0}'a geç</system:String>
@@ -242,7 +242,7 @@
 	<system:String x:Key="Words.OneDrive.SharedLink">Paylaşılan Bağlantı</system:String>
 	<system:String x:Key="Words.Password">Şifre</system:String>
 	<system:String x:Key="Words.Path">Dosya Yolu</system:String>
-	<system:String x:Key="Words.Port">Liman</system:String>
+	<system:String x:Key="Words.Port">Bağlantı Noktası</system:String>
 	<system:String x:Key="Words.Private">Özel</system:String>
 	<system:String x:Key="Words.PrivateKey">Özel anahtar</system:String>
 	<system:String x:Key="Words.ProcessMonitor">Süreç İzleme</system:String>
@@ -250,7 +250,7 @@
 	<system:String x:Key="Words.Progress">İlerleme</system:String>
 	<system:String x:Key="Words.Project">Proje</system:String>
 	<system:String x:Key="Words.Properties">Özellikleri</system:String>
-	<system:String x:Key="Words.Proxy">vekil</system:String>
+	<system:String x:Key="Words.Proxy">Vekil sunucu</system:String>
 	<system:String x:Key="Words.Public">Herkese Açık</system:String>
 	<system:String x:Key="Words.Read">Oku</system:String>
 	<system:String x:Key="Words.ReadOnly">Sadece Okuma</system:String>
@@ -278,7 +278,7 @@
 	<system:String x:Key="Words.SignOut">Çıkış Yap</system:String>
 	<system:String x:Key="Words.Site">Alan</system:String>
 	<system:String x:Key="Words.Size">Boyut</system:String>
-	<system:String x:Key="Words.Skip">Atlamak</system:String>
+	<system:String x:Key="Words.Skip">Atla</system:String>
 	<system:String x:Key="Words.Slow">Yavaş</system:String>
 	<system:String x:Key="Words.Sort">Çeşit</system:String>
 	<system:String x:Key="Words.Sort.Ascending">artan</system:String>
@@ -300,7 +300,7 @@
 	<system:String x:Key="Words.Unlock">Kilidini aç</system:String>
 	<system:String x:Key="Words.Update">Versiyon</system:String>
 	<system:String x:Key="Words.Upgrade">Güncelle</system:String>
-	<system:String x:Key="Words.Upload">yüklemek</system:String>
+	<system:String x:Key="Words.Upload">Yükle</system:String>
 	<system:String x:Key="Words.Username">Kullanıcı Adı</system:String>
 	<system:String x:Key="Words.VolumeLabel">Sürücü harfi(C, D gibi)</system:String>
 	<system:String x:Key="Words.WritableDrive">Yazılabilir sürücü</system:String>
